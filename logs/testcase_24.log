@@ -1,0 +1,34 @@
+2023-12-31 16:47:35,203 - INFO - Test pass: Quickview work
+2023-12-31 16:48:32,505 - INFO - Test pass: Quickview work
+2023-12-31 16:49:02,052 - INFO - Test pass: Quickview work
+2023-12-31 16:50:33,607 - INFO - Test pass: Quickview work
+2023-12-31 16:50:35,723 - INFO - Test pass: Cart opened
+2023-12-31 16:51:03,362 - INFO - Test pass: Quickview work
+2023-12-31 16:51:05,560 - INFO - Test pass: Cart opened
+2023-12-31 17:09:23,177 - INFO - Test pass: Quickview work
+2023-12-31 17:09:25,533 - INFO - Test pass: Cart opened
+2023-12-31 17:09:31,764 - ERROR - Test fail: There's no Home Accessories Filter
+2023-12-31 17:09:34,076 - INFO - Test pass: Quickview work
+2023-12-31 17:09:40,375 - INFO - Test pass: Cart opened
+2023-12-31 17:11:49,270 - INFO - Test pass: Quickview work
+2023-12-31 17:11:51,530 - INFO - Test pass: Cart opened
+2023-12-31 17:11:57,710 - ERROR - Test fail: There's no Home Accessories Filter
+2023-12-31 17:12:00,021 - INFO - Test pass: Quickview work
+2023-12-31 17:12:06,250 - INFO - Test pass: Cart opened
+2023-12-31 17:12:42,110 - INFO - Test pass: Quickview work
+2023-12-31 17:12:44,262 - INFO - Test pass: Cart opened
+2023-12-31 17:12:50,455 - ERROR - Test fail: There's no Home Accessories Filter
+2023-12-31 17:12:52,745 - INFO - Test pass: Quickview work
+2023-12-31 17:12:59,039 - INFO - Test pass: Cart opened
+2023-12-31 17:13:43,503 - INFO - Test pass: Quickview work
+2023-12-31 17:13:45,619 - INFO - Test pass: Cart opened
+2023-12-31 17:13:51,806 - ERROR - Test fail: There's no Home Accessories Filter
+2023-12-31 17:13:54,101 - INFO - Test pass: Quickview work
+2023-12-31 17:14:29,560 - INFO - Test pass: Quickview work
+2023-12-31 17:14:31,735 - INFO - Test pass: Cart opened
+2023-12-31 17:14:39,198 - ERROR - Test fail: Quickview didn't open
+2023-12-31 17:14:41,223 - ERROR - Test fail: Quickview didn't open
+2023-12-31 17:15:15,379 - INFO - Test pass: Quickview work
+2023-12-31 17:15:17,581 - INFO - Test pass: Cart opened
+2023-12-31 17:15:28,993 - INFO - Test pass: Quickview work
+2023-12-31 17:15:35,170 - INFO - Test pass: Cart opened

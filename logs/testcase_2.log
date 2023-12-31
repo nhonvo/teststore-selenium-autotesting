@@ -1,0 +1,12 @@
+2023-12-30 08:05:23,610 - INFO - Test pass: Search successed
+2023-12-30 08:05:56,300 - INFO - Test pass: Search successed
+2023-12-30 08:06:19,530 - INFO - Test pass: Search successed
+2023-12-30 08:11:19,240 - INFO - Test pass: Search successed
+2023-12-30 08:11:19,299 - ERROR - Test fail: 8/8 products don't contain the key
+2023-12-30 08:12:33,501 - INFO - Test pass: Search successed
+2023-12-30 08:12:33,552 - ERROR - Test fail: 6/8 products don't contain the key
+2023-12-30 08:14:38,234 - INFO - Test pass: Search successed
+2023-12-30 08:14:38,282 - ERROR - Test fail: 6/8 products don't contain the key
+2023-12-30 10:58:37,141 - INFO - Test pass: The page already displays all products
+2023-12-31 19:12:10,599 - INFO - Test pass: Search successed
+2023-12-31 19:12:10,695 - ERROR - Test fail: 6/8 products don't contain the key

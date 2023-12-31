@@ -1,0 +1,68 @@
+2023-12-30 22:16:41,211 - INFO - Test pass: Quickview work
+2023-12-30 22:16:58,551 - INFO - Test pass: Cart opened
+2023-12-30 22:20:46,106 - INFO - Test pass: Quickview work
+2023-12-30 22:21:03,510 - INFO - Test pass: Cart opened
+2023-12-30 22:21:24,952 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:22:54,660 - INFO - Test pass: Quickview work
+2023-12-30 22:23:11,910 - INFO - Test pass: Cart opened
+2023-12-30 22:23:24,401 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:24:43,195 - INFO - Test pass: Quickview work
+2023-12-30 22:25:00,506 - INFO - Test pass: Cart opened
+2023-12-30 22:25:13,100 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:25:44,635 - INFO - Test pass: Quickview work
+2023-12-30 22:26:01,945 - INFO - Test pass: Cart opened
+2023-12-30 22:26:14,468 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:27:02,862 - INFO - Test pass: Quickview work
+2023-12-30 22:27:20,067 - INFO - Test pass: Cart opened
+2023-12-30 22:27:32,683 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:28:06,260 - INFO - Test pass: Quickview work
+2023-12-30 22:28:23,807 - INFO - Test pass: Cart opened
+2023-12-30 22:28:36,270 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:29:47,893 - INFO - Test pass: Quickview work
+2023-12-30 22:30:05,141 - INFO - Test pass: Cart opened
+2023-12-30 22:30:17,644 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:30:38,316 - INFO - Test pass: Quickview work
+2023-12-30 22:30:55,645 - INFO - Test pass: Cart opened
+2023-12-30 22:31:08,836 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:31:47,785 - INFO - Test pass: Quickview work
+2023-12-30 22:32:05,027 - INFO - Test pass: Cart opened
+2023-12-30 22:32:19,185 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:32:56,311 - INFO - Test pass: Quickview work
+2023-12-30 22:33:13,726 - INFO - Test pass: Cart opened
+2023-12-30 22:33:26,436 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:33:38,228 - INFO - Test pass: Quickview work
+2023-12-30 22:33:55,581 - INFO - Test pass: Cart opened
+2023-12-30 22:34:08,810 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:34:41,241 - INFO - Test pass: Quickview work
+2023-12-30 22:34:58,464 - INFO - Test pass: Cart opened
+2023-12-30 22:35:11,112 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:35:41,120 - INFO - Test pass: Quickview work
+2023-12-30 22:35:58,425 - INFO - Test pass: Cart opened
+2023-12-30 22:36:11,023 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:36:35,507 - INFO - Test pass: Quickview work
+2023-12-30 22:36:55,897 - ERROR - Test fail: Cart didn't open
+2023-12-30 22:37:09,373 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:37:38,037 - INFO - Test pass: Quickview work
+2023-12-30 22:37:55,447 - INFO - Test pass: Cart opened
+2023-12-30 22:38:08,892 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:39:14,408 - INFO - Test pass: Quickview work
+2023-12-30 22:39:31,880 - INFO - Test pass: Cart opened
+2023-12-30 22:39:44,502 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:40:10,780 - INFO - Test pass: Quickview work
+2023-12-30 22:40:28,098 - INFO - Test pass: Cart opened
+2023-12-30 22:40:42,767 - ERROR - Test fail: Wrong price
+2023-12-30 22:42:04,513 - INFO - Test pass: Quickview work
+2023-12-30 22:42:21,831 - INFO - Test pass: Cart opened
+2023-12-30 22:42:36,616 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:42:58,869 - INFO - Test pass: Quickview work
+2023-12-30 22:43:16,189 - INFO - Test pass: Cart opened
+2023-12-30 22:43:30,637 - ERROR - Test fail: Cart page didn't open
+2023-12-30 22:44:39,986 - INFO - Test pass: Quickview work
+2023-12-30 22:44:57,272 - INFO - Test pass: Cart opened
+2023-12-30 22:45:17,051 - ERROR - Test fail: Wrong price
+2023-12-30 22:46:41,063 - INFO - Test pass: Quickview work
+2023-12-30 22:46:58,431 - INFO - Test pass: Cart opened
+2023-12-30 22:47:24,959 - ERROR - Test fail: Wrong price
+2023-12-30 22:48:00,805 - INFO - Test pass: Quickview work
+2023-12-30 22:48:18,160 - INFO - Test pass: Cart opened
+2023-12-30 22:48:32,753 - INFO - Test pass: Right price

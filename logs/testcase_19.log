@@ -1,0 +1,18 @@
+2023-12-31 07:51:32,160 - INFO - Test pass: Logged in
+2023-12-31 07:51:42,861 - ERROR - Test fail: Didn't change address
+2023-12-31 07:51:42,874 - ERROR - Test fail: Didn't change address
+2023-12-31 07:52:14,134 - INFO - Test pass: Logged in
+2023-12-31 07:52:24,761 - ERROR - Test fail: Didn't change address
+2023-12-31 07:52:24,770 - ERROR - Test fail: Didn't change address
+2023-12-31 07:53:01,536 - INFO - Test pass: Logged in
+2023-12-31 07:54:10,974 - INFO - Test pass: Logged in
+2023-12-31 07:54:48,341 - INFO - Test pass: Logged in
+2023-12-31 07:54:56,582 - ERROR - Test fail: Didn't change address
+2023-12-31 07:54:56,591 - ERROR - Test fail: Didn't change address
+2023-12-31 07:55:26,328 - INFO - Test pass: Logged in
+2023-12-31 08:19:31,912 - INFO - Test pass: Logged in
+2023-12-31 08:19:41,081 - INFO - Tess pass: Address changed
+2023-12-31 08:26:28,350 - INFO - Test pass: Logged in
+2023-12-31 08:26:37,599 - INFO - Tess pass: Address changed
+2023-12-31 08:34:47,170 - INFO - Test pass: Logged in
+2023-12-31 08:34:55,701 - INFO - Tess pass: Address changed

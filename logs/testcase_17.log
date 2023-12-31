@@ -1,0 +1,30 @@
+2023-12-31 12:37:20,617 - INFO - Test pass: Logged in
+2023-12-31 12:45:56,977 - INFO - Test pass: Logged in
+2023-12-31 12:46:46,508 - INFO - Test pass: Logged in
+2023-12-31 12:46:50,160 - INFO - Test pass: Quickview work
+2023-12-31 12:47:07,663 - INFO - Test pass: Cart opened
+2023-12-31 13:39:03,979 - INFO - Test pass: Logged in
+2023-12-31 13:39:07,916 - INFO - Test pass: Quickview work
+2023-12-31 13:39:25,310 - INFO - Test pass: Cart opened
+2023-12-31 13:39:58,828 - INFO - Test pass: Logged in
+2023-12-31 13:40:02,791 - INFO - Test pass: Quickview work
+2023-12-31 13:40:20,123 - INFO - Test pass: Cart opened
+2023-12-31 13:41:21,601 - INFO - Test pass: Logged in
+2023-12-31 13:41:25,336 - INFO - Test pass: Quickview work
+2023-12-31 13:41:42,667 - INFO - Test pass: Cart opened
+2023-12-31 13:51:27,167 - INFO - Test pass: Logged in
+2023-12-31 13:51:30,940 - INFO - Test pass: Quickview work
+2023-12-31 13:51:51,429 - ERROR - Test fail: Cart didn't open
+2023-12-31 13:52:03,931 - INFO - Test pass: Logged in
+2023-12-31 13:52:07,700 - INFO - Test pass: Quickview work
+2023-12-31 13:52:25,141 - INFO - Test pass: Cart opened
+2023-12-31 13:53:25,327 - INFO - Test pass: Logged in
+2023-12-31 13:53:29,012 - INFO - Test pass: Quickview work
+2023-12-31 13:53:46,198 - INFO - Test pass: Cart opened
+2023-12-31 13:59:24,258 - INFO - Test pass: Logged in
+2023-12-31 13:59:28,023 - INFO - Test pass: Quickview work
+2023-12-31 13:59:45,370 - INFO - Test pass: Cart opened
+2023-12-31 14:01:05,216 - INFO - Test pass: Logged in
+2023-12-31 14:01:08,899 - INFO - Test pass: Quickview work
+2023-12-31 14:01:26,283 - INFO - Test pass: Cart opened
+2023-12-31 14:01:44,651 - INFO - Test pass: Saved

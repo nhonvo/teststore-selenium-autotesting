@@ -1,0 +1,33 @@
+2023-12-31 22:57:18,038 - ERROR - Test fail: Filter wasn't selected
+2023-12-31 22:57:18,044 - ERROR - Test fail: Filter wasn't selected
+2023-12-31 22:57:18,049 - ERROR - Test fail: Filter wasn't selected
+2023-12-31 22:57:20,370 - INFO - Test pass: Quickview work
+2023-12-31 22:57:27,678 - INFO - Test pass: Cart opened
+2023-12-31 22:57:36,091 - INFO - Test pass: Quickview work
+2023-12-31 22:57:42,269 - INFO - Test pass: Cart opened
+2023-12-31 22:58:38,492 - ERROR - Test fail: Filter wasn't selected
+2023-12-31 22:58:38,496 - ERROR - Test fail: Filter wasn't selected
+2023-12-31 22:58:38,499 - ERROR - Test fail: Filter wasn't selected
+2023-12-31 22:58:40,829 - INFO - Test pass: Quickview work
+2023-12-31 22:58:48,077 - INFO - Test pass: Cart opened
+2023-12-31 22:58:55,705 - ERROR - Test fail: Quickview didn't open
+2023-12-31 22:58:57,729 - ERROR - Test fail: Quickview didn't open
+2023-12-31 22:59:25,926 - INFO - Test pass: Filter was selected
+2023-12-31 22:59:28,962 - INFO - Test pass: Filter was selected
+2023-12-31 22:59:32,030 - INFO - Test pass: Filter was selected
+2023-12-31 22:59:34,357 - INFO - Test pass: Quickview work
+2023-12-31 22:59:44,840 - ERROR - Test fail: Cart didn't open
+2023-12-31 22:59:47,183 - INFO - Test pass: Quickview work
+2023-12-31 22:59:53,639 - ERROR - Test fail: Cart didn't open
+2023-12-31 23:00:02,054 - INFO - Test pass: Quickview work
+2023-12-31 23:00:05,194 - ERROR - Test fail: Cart didn't open
+2023-12-31 23:01:28,444 - INFO - Test pass: Filter was selected
+2023-12-31 23:01:31,474 - INFO - Test pass: Filter was selected
+2023-12-31 23:01:34,506 - INFO - Test pass: Filter was selected
+2023-12-31 23:01:36,815 - INFO - Test pass: Quickview work
+2023-12-31 23:01:44,235 - INFO - Test pass: Cart opened
+2023-12-31 23:01:52,618 - INFO - Test pass: Quickview work
+2023-12-31 23:01:59,011 - INFO - Test pass: Cart opened
+2023-12-31 23:02:07,389 - INFO - Test pass: Quickview work
+2023-12-31 23:02:10,725 - INFO - Test pass: Cart opened
+2023-12-31 23:02:20,234 - INFO - Test pass: Logged in

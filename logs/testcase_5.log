@@ -1,0 +1,12 @@
+2023-12-30 10:58:58,208 - INFO - Test pass: The page already displays all products
+2023-12-30 11:20:51,052 - INFO - Test pass: The page already displays all products
+2023-12-30 11:21:24,578 - INFO - Test pass: The page already displays all products
+2023-12-31 19:38:09,052 - INFO - Test pass: The page already displays all products
+2023-12-31 22:47:03,673 - ERROR - Test fail: 25 didn't close
+2023-12-31 22:48:46,368 - ERROR - Test fail: Filter didn't close
+2023-12-31 22:49:32,789 - ERROR - Test fail: Filter didn't close
+2023-12-31 22:50:49,426 - INFO - Test pass: All filter closed
+2023-12-31 22:53:06,850 - INFO - Test pass: Filter was selected
+2023-12-31 22:53:09,880 - INFO - Test pass: Filter was selected
+2023-12-31 22:53:13,017 - INFO - Test pass: Filter was selected
+2023-12-31 22:53:22,328 - INFO - Test pass: All filter closed

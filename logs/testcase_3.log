@@ -1,0 +1,4 @@
+2023-12-31 19:13:09,236 - ERROR - Test fail: Filter fail
+2023-12-31 19:13:09,252 - INFO - Test pass: The products have been sorted ascending
+2023-12-31 19:13:42,534 - INFO - Test pass: Filter successed
+2023-12-31 19:13:42,568 - INFO - Test pass: The products have been sorted ascending

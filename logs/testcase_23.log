@@ -1,0 +1,29 @@
+2023-12-31 16:16:13,063 - ERROR - Test success: Success to load contact page
+2023-12-31 16:16:41,248 - ERROR - Test success: Success to load contact page
+2023-12-31 16:17:08,460 - ERROR - Test success: Success to load contact page
+2023-12-31 16:17:37,127 - ERROR - Test success: Success to load contact page
+2023-12-31 16:18:23,324 - ERROR - Test success: Success to load contact page
+2023-12-31 16:18:58,534 - ERROR - Test success: Success to load contact page
+2023-12-31 16:19:23,454 - ERROR - Test success: Success to load contact page
+2023-12-31 16:19:41,611 - ERROR - Test fail: Send email fail
+2023-12-31 16:19:47,497 - ERROR - Test success: Success to load contact page
+2023-12-31 16:20:33,042 - INFO - Test success: Success to load contact page
+2023-12-31 16:22:25,467 - INFO - Test success: Success to load contact page
+2023-12-31 16:23:26,210 - ERROR - Test fail: Send email fail
+2023-12-31 16:23:32,743 - INFO - Test success: Success to load contact page
+2023-12-31 16:25:00,788 - ERROR - Test fail: Send email fail
+2023-12-31 16:26:13,935 - INFO - Test pass: Logged in
+2023-12-31 16:26:14,729 - INFO - Test success: Success to load contact page
+2023-12-31 16:26:31,874 - INFO - Test pass: Send email success
+2023-12-31 16:27:00,525 - INFO - Test pass: Logged in
+2023-12-31 16:27:01,217 - INFO - Test success: Success to load contact page
+2023-12-31 16:27:19,703 - INFO - Test pass: Send email success
+2023-12-31 16:27:42,141 - INFO - Test pass: Logged in
+2023-12-31 16:27:42,915 - INFO - Test success: Success to load contact page
+2023-12-31 16:27:48,209 - INFO - Test pass: Send email success
+2023-12-31 16:28:12,910 - INFO - Test pass: Logged in
+2023-12-31 16:28:13,648 - INFO - Test pass: Success to load contact page
+2023-12-31 16:28:14,515 - INFO - Test pass: Send email success
+2023-12-31 16:47:19,486 - INFO - Test pass: Logged in
+2023-12-31 16:47:20,182 - INFO - Test pass: Success to load contact page
+2023-12-31 16:47:21,085 - INFO - Test pass: Send email success

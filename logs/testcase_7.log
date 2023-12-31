@@ -1,0 +1,15 @@
+2023-12-30 13:00:07,665 - INFO - Test pass: Filtered
+2023-12-30 13:00:10,762 - INFO - Test pass: The page already displays all products
+2023-12-30 13:00:37,922 - INFO - Test pass: Filtered
+2023-12-30 13:00:40,959 - INFO - Test pass: The page already displays all products
+2023-12-30 13:00:43,048 - ERROR - Test fail: Filter fail
+2023-12-30 13:00:43,408 - INFO - Test pass: The products have been sorted ascending
+2023-12-30 13:01:54,853 - INFO - Test pass: Filtered
+2023-12-30 13:01:57,891 - INFO - Test pass: The page already displays all products
+2023-12-30 13:01:59,967 - INFO - Test pass: Sort successed
+2023-12-30 13:02:00,035 - INFO - Test pass: The products have been sorted ascending
+2023-12-30 14:25:01,718 - INFO - Test pass: Filtered
+2023-12-31 19:38:40,060 - INFO - Test pass: Filtered
+2023-12-31 19:38:43,156 - INFO - Test pass: The page already displays all products
+2023-12-31 19:38:45,368 - INFO - Test pass: Sort successed
+2023-12-31 19:38:45,737 - INFO - Test pass: The products have been sorted ascending

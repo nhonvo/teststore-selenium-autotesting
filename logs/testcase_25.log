@@ -1,0 +1,7 @@
+2023-12-31 20:05:42,961 - ERROR - Test fail: Nav didn't work
+2023-12-31 20:12:26,242 - INFO - Test pass: Logged in
+2023-12-31 20:12:37,696 - ERROR - Test fail: Nav didn't work
+2023-12-31 20:12:40,061 - INFO - Test pass: Quickview work
+2023-12-31 20:12:47,319 - INFO - Test pass: Cart opened
+2023-12-31 20:12:58,764 - INFO - Test pass: Quickview work
+2023-12-31 20:13:05,038 - INFO - Test pass: Cart opened
